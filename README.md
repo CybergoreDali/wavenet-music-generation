@@ -1,7 +1,7 @@
 # wavenet-music-generation
 
 Attempt to generate music with different implementations of the wavenet model.
-So far, only noise/silence could be generated.
+So far, I was only able to generate noise/silence with it.
 
 To reproduce, launch the google colab instance linked at the top of the .ipynb-file.
 Upload at least 20 audio files to /contents/mp3 (the files don't have to be in the mp3 format) or specify the link to the audio files in the corresponding code block.
