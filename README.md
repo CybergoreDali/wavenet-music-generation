@@ -10,4 +10,4 @@ For the tensorflow 2 implementation, it is necessary to upload an audio file and
 Run the remaining commands to automatically generate mono-channel wave files at a 16kHz sampling rate from the uploaded audio files, split them into training and test files, train the model with it and generate audio from the trained model.
 
 
-Worked on as part of the Machine Learning Elective at Hochschule Darmstadt with the kind support from Meghan Kane.
+Worked on as part of the Machine Learning Elective at Hochschule Darmstadt with the kind support of Meghan Kane.
